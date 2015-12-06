@@ -1,3 +1,9 @@
+moreutils (0.57toobad1) UNRELEASED; urgency=medium
+
+  * envx added
+
+ -- dima <DMIUNT@live.spbstu.ru>  Sun, 06 Dec 2015 11:50:01 +0300
+
 moreutils (0.57) unstable; urgency=medium
 
   * Avoid using non-portable error() in ifdata, a portability reversion

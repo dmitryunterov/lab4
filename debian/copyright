@@ -5,6 +5,10 @@ Files: *
 Copyright: 2006-2015 Joey Hess <id@joeyh.name>
 License: GPL-2+
 
+Files: envx.c
+COpyright: 2015 Im confused and want to be anonymous
+License: Yarr!
+
 Files: isutf8.*
 Copyright: 2005 Lars Wirzenius
 License: GPL-2+
